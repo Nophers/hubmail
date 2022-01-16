@@ -16,5 +16,5 @@ By the way, it's sending the Text saved in the text.txt file.
 
 # Security & Privacy
 
-* Due to securityreasons, you have to enter your password each time sending an email. 
+* Due to security reasons, you have to enter your password each time sending an email. 
 * This avoids spam and scams while using this Script. 
